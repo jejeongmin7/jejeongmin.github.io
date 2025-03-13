@@ -21,9 +21,9 @@ title_separator          : "&#124;"
 subtitle                 : "나이가 핑계가 아닌 무기가 되자"
 name                     : "제정민 (Jeongmin Je)"
 description              : "백엔드 개발자 제정민의 블로그입니다"
-url                      : "https://jjmin321.github.io" 
+url                      : "https://jejeongmin.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : jjmin321/jjmin321.github.io
+repository               : jejeongmin7/jejeongmin.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/Golang.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "제정민의 블로그"
